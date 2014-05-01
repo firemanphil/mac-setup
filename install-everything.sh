@@ -18,4 +18,4 @@ git clone https://github.com/firemanphil/zookeeper-ranger.git
 cd zookeeper-ranger
 npm install
 cd ..
-
+git config --global credential.helper osxkeychain
